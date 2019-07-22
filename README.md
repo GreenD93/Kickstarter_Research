@@ -1,2 +1,2 @@
 # Kickstarter_Research
-![Alt text](./img/Kickstarter_ERD.pdf "ERD")
+![Alt text](./img/Kickstarter_ERD.png "ERD")
