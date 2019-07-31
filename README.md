@@ -4,7 +4,7 @@ This page is for a research called 'Investigating Factors of customer’s attitu
 
 ## The page have five steps as below:
 
-1. Database create
+1. Create Database
 2. Insert data to database
 3. Extract data from database
 4. Exploratory data analysis
