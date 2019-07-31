@@ -19,5 +19,6 @@ This page is for a research called 'Investigating Factors of customer’s attitu
     * 임소영 [아주대학교 컴퓨터공학과 / ter194@ajou.ac.kr] 
 *	Adviser 
     *	한경식 [아주대학교 데이터사이언스학과 / kyungsikhan@ajou.ac.kr]
-  
+ 
+## EDA
 ![Alt text](./img/Kickstarter_ERD.png "ERD")
