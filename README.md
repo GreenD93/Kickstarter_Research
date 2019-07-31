@@ -1,4 +1,4 @@
-# Kickstarter_Research
+# Advertising video research
 
 This page is for a research called 'Investigating Factors of customer’s attitudes on advertising'.
 
